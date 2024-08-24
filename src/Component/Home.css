@@ -1,0 +1,30 @@
+.btn {
+  background-color: white;
+  padding: 14px;
+  width: 155px;
+  border: none;
+  border-radius: 5px;
+}
+
+.img-img {
+  width: 150px;
+  height: 150px;
+ 
+  border-radius: 50%;
+  margin-left: 40px;
+  margin-top: 10px;
+}
+.btnhover:hover{
+    background-color: red;
+    cursor: pointer;
+ 
+}
+
+.formData{
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  width: 250px;
+  margin: 50px auto;
+}
+

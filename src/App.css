@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&family=Playfair+Display:ital@0;1&display=swap');
+
+body{
+    font-family: "Almarai", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+
+    background-color:rgb(246,246,246);
+}
